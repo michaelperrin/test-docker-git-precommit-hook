@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+time docker-compose run bla sleep 5
